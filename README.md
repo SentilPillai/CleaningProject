@@ -39,7 +39,7 @@ Instruction
 
 3. Download the source code run_analysis.R from below linked git hub URL
 
-    https://github.com/SentilPillai/CleaningProject/run_analysis.R
+    https://github.com/SentilPillai/CleaningProject/blob/master/run_analysis.R
 
 4. Copy the source code run_analysis.R into the local current directory where data set was downloaded to
 
